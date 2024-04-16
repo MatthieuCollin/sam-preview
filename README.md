@@ -1,6 +1,6 @@
-SAM² est une application web réalisée en React (client) et Symfony (API)
+# SAM² est une application web réalisée en React (client) et Symfony (API) #
 
-# J'ai travaillé la majeure partie de mon temps sur SAM² lors de mon stage/alternance chez dot Tilde. #
+### J'ai travaillé la majeure partie de mon temps sur SAM² lors de mon stage/alternance chez dot Tilde. ###
 
 Ce projet permet aux écoles de gérer plus facilement leurs élèves sur le LMS Moodle. Ils peuvent ainsi :
 
